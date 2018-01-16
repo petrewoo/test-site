@@ -1,0 +1,29 @@
+html {
+  background-color: #00539F;
+}
+
+body {
+  /* width: 600px; */
+  margin: 0 auto;
+  background-color: orange;
+  padding: 40px 40px 40px 40px;
+  border: 5px solid grey;
+}
+
+body {
+  width: 600px,
+  marign = 0 auto
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  marig:0
+  pading
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
